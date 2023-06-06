@@ -60,7 +60,7 @@
 ## Connect with Me
 
 - GitHub: https://github.com/shiva-saini
-- LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/shiva-saini-bb77181ab/)
+- LinkedIn:https://www.linkedin.com/in/shiva-saini-bb77181ab/
 <!-- - Website/Blog: [Your Website/Blog URL] -->
 
 Feel free to explore my repositories and get in touch with me! 😊
